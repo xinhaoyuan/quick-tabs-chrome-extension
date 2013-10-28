@@ -1,6 +1,6 @@
 {
    "background": {
-      "scripts": ["background.js"]
+      "scripts": ["background.js", "external_message.js"]
     },
    "browser_action": {
       "default_icon": "assets/icon-32.png",
